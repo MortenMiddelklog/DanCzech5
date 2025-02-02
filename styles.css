@@ -196,7 +196,7 @@ nav {
 
 .intro img, .news img, .about img {
   display: block;
-  object-fit: cover;
+  object-fit: contain;
   max-width: 800px;
   margin-top: 30px;
 }
